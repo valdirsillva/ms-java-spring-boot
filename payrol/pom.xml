@@ -8,10 +8,10 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hr-payroll</groupId>
-	<artifactId>hr-worker</artifactId>
+	<groupId>com.payroll</groupId>
+	<artifactId>hr-payrol</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-worker</name>
+	<name>hr-payrol</name>
 	<description>Payroll Microservice</description>
 
 	<properties>
@@ -19,7 +19,6 @@
 	</properties>
 
 	<dependencies>
-		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
