@@ -15,7 +15,7 @@ import com.hrworker.worker.repositories.WorkerRepository;
 @RestController
 @RequestMapping(value = "/workers")
 public class WorkerResource {
-    // Injeta dependencia
+    // Injeção de dependencia
     @Autowired
     private WorkerRepository repository;
 
