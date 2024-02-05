@@ -5,5 +5,5 @@
 
 ## Class Diagram [User]
 
-![Web 1](https://github.com/valdirsillva/ms-java-spring-boot/blob/main/diagram/class-diagram-ms-user.drawio.svg)
+![Web 1](https://github.com/valdirsillva/ms-java-spring-boot/blob/main/diagram/class-diagram-ms-user-light.drawio.svg)
 
