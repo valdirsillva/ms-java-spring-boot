@@ -9,5 +9,5 @@
 
 ## Design Architecture
 
-![Web 1](https://github.com/valdirsillva/ms-java-spring-boot/blob/main/diagram/design-arquitecture.png)
+![Web 1](https://github.com/valdirsillva/ms-java-spring-boot/blob/main/diagram/design-architecture.png)
 
